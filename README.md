@@ -1,5 +1,5 @@
 # Power BI Dashboard
-## 0. Dengue Analysis Dashboard
+## Dengue Analysis Dashboard
 ![Dashboard](dangue_report.JPG)
 
 # Dashboard Description:
@@ -10,7 +10,7 @@ This Dengue Analysis Dashboard offers a detailed breakdown of data related to de
 3. Geographical Distribution: The dashboard identifies dengue hotspots, with Jauharabad having the highest number of cases.
 4. Living Conditions: Cases are categorized by area type (developed vs. underdeveloped) and house type (building, tin-shed, or other), revealing higher incidences in underdeveloped areas and "other" house types.
 
-## 1. Sales Dashboard
+## Sales Dashboard
 ![Dashboard](Dash_img1.JPG)
 
 # Dashboard Description
@@ -51,7 +51,7 @@ Includes buttons like Dashboard and Details for easy navigation between differen
 - User-Friendly Visuals: Clear and intuitive charts make complex data easy to interpret.
 - Correlations and Trends: Provides actionable insights through metrics like correlation coefficient and sales trends over time.
 
-## 2. Order Salse Dashboard 
+## Order Sales Dashboard 
 ![Dashboard](order_sales1.JPG)
 
 The Sales Dashboard provides a comprehensive overview of sales performance using multiple visualizations:
@@ -65,7 +65,7 @@ The Sales Dashboard provides a comprehensive overview of sales performance using
    
 This dashboard offers a clear, data-driven snapshot for quick decision-making.
 
-## 2.1 Order Sales Dashboard 2nd page 
+## Order Sales Dashboard 2nd page 
 ![Dashboard](Order_sales2.JPG)
 
 This Sales Dashboard offers a detailed view of performance metrics through various visualizations:
@@ -81,11 +81,6 @@ This Sales Dashboard offers a detailed view of performance metrics through vario
 This dashboard provides valuable insights into sales distribution, representative performance, and regional sales trends.
 
 
-## 2.2 Order Sales Dashboard (lookerstudio) 2nd page 
-![Dashboard](lookerstudio.JPG)
-
-
-## google sheet dashboard  https://docs.google.com/spreadsheets/d/1WawyRHixvEvPI_0xHEMbGzxvio9Zavfr7Drr8dWzOYs/edit?usp=sharing
 
 
 
